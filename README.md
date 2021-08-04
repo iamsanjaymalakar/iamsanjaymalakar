@@ -45,14 +45,14 @@
 
 <br>
 <div class="row">
-  <div class="col-md-6">
+  <div class="col-6">
 
-  [![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamsanjaymalakar&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/iamsanjay)
+  [![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamsanjaymalakar&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/iamsanjaymalakar)
   
   </div>
-  <div class="col-md-6">
+  <div class="col-6">
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsanjaymalakar&hide=css,html&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsanjaymalakar&hide=css,html&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/iamsanjaymalakar)
   
   </div>
 
