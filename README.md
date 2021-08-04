@@ -5,7 +5,7 @@
 
 ## I'm a Software Engineer, Researcher
 
-- 👨‍💻 Currently working as a software engineer at [OpenRefactory, Inc.](https://www.openrefactory.com/)
+- 👨‍💻 Software engineer at [OpenRefactory, Inc.](https://www.openrefactory.com/)
 - 🎓 Doing M&#46;Sc&#46; in computer science at BUET.
 - ☯️ Figuring out life!
 
