@@ -6,7 +6,7 @@
 ## I'm a Software Engineer, Researcher
 
 - 👨‍💻 Currently working as a software engineer at [OpenRefactory, Inc.](https://www.openrefactory.com/)
-- 🎓 Doing M&#46;Sc&#46; in computer science at BUET
+- 🎓 Doing M&#46;Sc&#46; in computer science at BUET.
 - ☯️ Figuring out life!
 
 ### Connect with me:
@@ -35,28 +35,6 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
-<br />
-<br />
-
----
-
-
-
-
-<br>
-<div class="row">
-  <div class="col-6">
-
-  [![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamsanjaymalakar&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/iamsanjaymalakar)
-  
-  </div>
-  <div class="col-6">
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsanjaymalakar&hide=css,html&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/iamsanjaymalakar)
-  
-  </div>
-
-  </div>
 
 
 [facebook]: https://m.me/iamsanjaymalakar
